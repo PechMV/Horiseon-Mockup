@@ -2,7 +2,7 @@
 
 ## Description
 
-This mockup project was created to help students take a long list of code and improving it, making it more managable and simple to read. Changing 'div' tags into semantic tags to make it more organzied. Changing the CSS stylesheet to make it more managable and organized, reducing a lot of repeatative code. This project has helped me learn to stay organize with your code. 
+This mockup project was created to help students take a long list of code and improving it, making it more managable and simple to read. Changing 'div' tags into semantic tags to make it more organzied. Changing the CSS stylesheet to make it more managable and organized, reducing a lot of repeatative code. This project has helped me learn to stay organize with your code but to also use semantic tags to have an easier way to read the code. 
 
 
 ## Installation
@@ -15,8 +15,13 @@ To use this, open the Chrome DevTools to view the code. On the web application y
 
 ![Screenshot of finished mockup web application top](./assets/images/screenshot1.png)
 
-![Screenshot of finished mocup web application bottom](./assets/images/screenshot2.png)
+![Screenshot of finished mockup web application bottom](./assets/images/screenshot2.png)
 
+## Links
+
+My GitHub Repository: ![GitHub Repository for this project](https://github.com/PechMV/Horiseon-Mockup)
+
+Horiseon Mockup Web Application: 
 
 ## Credits
 
