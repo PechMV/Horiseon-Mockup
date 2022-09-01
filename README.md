@@ -1,4 +1,4 @@
-# Refactoring Horiseon Mockup Project
+# Refactoring Horiseon Mockup Web Application Project
 
 ## Description
 
