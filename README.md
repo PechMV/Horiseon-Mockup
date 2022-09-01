@@ -14,8 +14,10 @@ N/A
 To use this, open the Chrome DevTools to view the code. On the web application you can also use the navigation menu at the top right in the header, and click on the quick access links to view the articles down the page. 
 
     ```md
-    ![Screenshot of finished mockup web application](assets/images/screenshot.png)
+    ![Screenshot of finished mockup web application top](assets/images/screenshot1.png)
     ```
+    '''md
+    ![Screenshot of finished mocup web application bottom](assets/images/screenshot2.png)
 
 ## Credits
 
