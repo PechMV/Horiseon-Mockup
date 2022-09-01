@@ -19,7 +19,7 @@ To use this, open the Chrome DevTools to view the code. On the web application y
 
 ## Links
 
-My GitHub Repository: ![GitHub Repository for this project](https://github.com/PechMV/Horiseon-Mockup)
+My GitHub Repository: (https://github.com/PechMV/Horiseon-Mockup)
 
 Horiseon Mockup Web Application: 
 
