@@ -20,7 +20,7 @@ Deployed URL for Web Application: (https://pechmv.github.io/Horiseon-Mockup/)
 
 ## Changes Made
 
-* Replaced most div tags into semantic tags
+* Improved HTML by adding semantic tags
 * Added alt text for images
 * Added comments in CSS
 * Adjusted the CSS by reducing repeatative classes
