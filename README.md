@@ -4,11 +4,6 @@
 
 This mockup project was created to help students take a long list of code and improving it, making it more managable and simple to read. Changing 'div' tags into semantic tags to make it more organzied. Changing the CSS stylesheet to make it more managable and organized, reducing a lot of repeatative code. This project has helped me learn to stay organize with your code but to also use semantic tags to have an easier way to read the code. 
 
-
-## Installation
-
-N/A
-
 ## Usage
 
 To use this, open the Chrome DevTools to view the code. On the web application you can also use the navigation menu at the top right in the header, and click on the quick access links to view the articles down the page. 
@@ -21,11 +16,15 @@ To use this, open the Chrome DevTools to view the code. On the web application y
 
 My GitHub Repository: (https://github.com/PechMV/Horiseon-Mockup)
 
-Horiseon Mockup Web Application: 
+Deployed URL for Web Application: (https://pechmv.github.io/Horiseon-Mockup/)
 
-## Credits
+## Changes Made
 
-N/A
+* Replaced most div tags into semantic tags
+* Added alt text for images
+* Added comments in CSS
+* Adjusted the CSS by reducing repeatative classes
+* Reorganized CSS by putting it in order to match the HTML 
 
 ## License
 
